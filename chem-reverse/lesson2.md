@@ -77,6 +77,10 @@ $$\rm ^{144}_{56}Ba\stackrel {\beta^-} {\longrightarrow}{^{141}_{57}La}\stackrel
 由激发态原子核通过发射$\gamma$射线（$\gamma$光子）跃迁到低能态的过程，成为$\gamma$衰变。例如：
 $$\rm ^{60}_{27}Co\longrightarrow^{60}_{27}Co+\gamma$$
 
+$\gamma$衰变，原子核和核电荷数均保持不变，仅仅发生能量变化。
+
+$\gamma$射线
+
 -----------
 
 ![bg opacity:1](BG_2.png)
