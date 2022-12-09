@@ -1,0 +1,21 @@
+h3 {
+    color: lightblue;
+    text-align: center;
+}
+h2 {
+    color:aqua;
+    text-align: left;
+}
+p {
+    color: azure;
+}
+
+
+
+li {
+    color: lavender
+}
+
+li>ul>li {
+    color: #f0fff0
+}
