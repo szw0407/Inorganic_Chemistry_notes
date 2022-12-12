@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "84c6884a39242239",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d238daf54c80f0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c049c876dbea448f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bae3a09beec3a701",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca86c34ca1fdd445",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a53cc28a7e786e60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4bf716d31062ed5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8db5f6efaecd7ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "490513ec9c275c43",
+    "type": "split",
+    "children": [
+      {
+        "id": "e118c8e327511adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab50b3020ebf628",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edea82a1104dd58c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1623478f260721ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2601b25878cc50e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2601b25878cc50e9",
+  "lastOpenFiles": [
+    "化学期末复习.md",
+    "README.md",
+    "chem-reverse/lesson2.md"
+  ]
+}
