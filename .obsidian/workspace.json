@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "化学期末复习.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b0e6bec9ecf72cd8",
