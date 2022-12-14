@@ -131,14 +131,14 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "19d9282270b75347",
+  "active": "c518ae36b825634e",
   "lastOpenFiles": [
     "化学期末复习.md"
   ]
