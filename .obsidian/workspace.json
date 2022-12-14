@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,6 +138,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "359cb1582aa468d7",
-  "lastOpenFiles": []
+  "active": "19d9282270b75347",
+  "lastOpenFiles": [
+    "化学期末复习.md"
+  ]
 }
