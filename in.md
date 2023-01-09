@@ -224,11 +224,7 @@ $$s=\sqrt[3]{\frac{K^\ominus_{sp}}{4}}\times c^\ominus$$
 
 根据吉布斯自由能变的判断依据：
 
-$$\Delta_rG_m\left \lbrace \begin{array}{r}<\  \\
-=\ \\
-\ >\ \end{array} \right \rbrace 0 \left \lbrace\begin{array}{l}反应正向进行\\
-反应处于平衡状态\\
-反应逆向进行\end{array} \right .$$
+$$\Delta_rG_m\left \lbrace \begin{array}{r}<\\=\\>\end{array} \right \rbrace 0 \left \lbrace\begin{array}{l}反应正向进行\\反应处于平衡状态\\反应逆向进行\end{array} \right .$$
 
 <b>溶度积规则</b>：
 
@@ -238,11 +234,7 @@ $$A_mB_n(s)\rightleftharpoons mA^{n+}+bB^{m-}$$
 
 $$J=\{c(A^{n+})\}^m\cdot \{c(B^{m-})\}^n/(c^\ominus)^{(m+n)}$$
 
-$$J\left \lbrace \begin{array}{r}< \\
-=\\
-\ >\end{array}\right \rbrace 0 \left \lbrace\begin{array}{l}沉淀溶解或不产生沉淀\\
-饱和溶液，平衡态\\
-生成沉淀\end{array} \right .$$
+$$J\left \lbrace \begin{array}{r}< \\ =\\ >\end{array}\right \rbrace 0 \left \lbrace\begin{array}{l}沉淀溶解或不产生沉淀 \\ 饱和溶液，平衡态 \\ 生成沉淀\end{array} \right .$$
 
 #### 影响沉淀反应的因素
 
